@@ -25,7 +25,7 @@ SECRET_KEY = '036r+vtzd=eornwvv%b*!e23j#%zk5k_t1u%cr9=o$n^r-ik$w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<terracotta>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'terracotta777.pythonanywhere.com']
 
 
 # Application definition
